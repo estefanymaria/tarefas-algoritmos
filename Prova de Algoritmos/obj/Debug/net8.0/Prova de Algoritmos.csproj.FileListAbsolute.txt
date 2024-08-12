@@ -1,0 +1,14 @@
+D:\Users\20241170150041\Prova de Algoritmos\bin\Debug\net8.0\Prova de Algoritmos.exe
+D:\Users\20241170150041\Prova de Algoritmos\bin\Debug\net8.0\Prova de Algoritmos.deps.json
+D:\Users\20241170150041\Prova de Algoritmos\bin\Debug\net8.0\Prova de Algoritmos.runtimeconfig.json
+D:\Users\20241170150041\Prova de Algoritmos\bin\Debug\net8.0\Prova de Algoritmos.dll
+D:\Users\20241170150041\Prova de Algoritmos\bin\Debug\net8.0\Prova de Algoritmos.pdb
+D:\Users\20241170150041\Prova de Algoritmos\obj\Debug\net8.0\Prova de Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150041\Prova de Algoritmos\obj\Debug\net8.0\Prova de Algoritmos.AssemblyInfoInputs.cache
+D:\Users\20241170150041\Prova de Algoritmos\obj\Debug\net8.0\Prova de Algoritmos.AssemblyInfo.cs
+D:\Users\20241170150041\Prova de Algoritmos\obj\Debug\net8.0\Prova de Algoritmos.csproj.CoreCompileInputs.cache
+D:\Users\20241170150041\Prova de Algoritmos\obj\Debug\net8.0\Prova de Algoritmos.dll
+D:\Users\20241170150041\Prova de Algoritmos\obj\Debug\net8.0\refint\Prova de Algoritmos.dll
+D:\Users\20241170150041\Prova de Algoritmos\obj\Debug\net8.0\Prova de Algoritmos.pdb
+D:\Users\20241170150041\Prova de Algoritmos\obj\Debug\net8.0\Prova de Algoritmos.genruntimeconfig.cache
+D:\Users\20241170150041\Prova de Algoritmos\obj\Debug\net8.0\ref\Prova de Algoritmos.dll
